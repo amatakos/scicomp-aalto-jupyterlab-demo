@@ -1,2 +1,5 @@
 # Dependencies
 matplotlib==3.4.1
+ipywidgets==7.4.2
+numpy==1.16.4
+
